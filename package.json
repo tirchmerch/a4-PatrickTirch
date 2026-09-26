@@ -4,7 +4,8 @@
   "description": "",
   "author": "",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "bluld": "vite build"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
